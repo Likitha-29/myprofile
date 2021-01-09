@@ -43,3 +43,14 @@ def iseven(n):
        print("odd")
 
 ```
+
+s.no|name|emailid
+----|----|-------
+1|likitha|gmail.com
+2|deepthi|gmail.com
+
+
+
+:smiling_face_with_three_hearts:
+
+
